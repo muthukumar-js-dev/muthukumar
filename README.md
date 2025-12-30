@@ -1,31 +1,45 @@
 # Hi, I'm Muthu Kumar 👋
 
-Backend Engineer with 3+ years of experience building scalable APIs and real-world systems using Node.js and the MERN stack.
+Backend Engineer, Open-Source Contributor, and Product Builder.
 
-I focus on **how backend systems actually work** — performance, architecture, and Node.js internals — not just frameworks.
+I work primarily with **Node.js and the MERN stack**, focusing on building scalable backend systems, developer tools, and real-world products.
 
----
-
-## 🔧 Tech Stack
-- **Backend:** Node.js, Express.js, REST APIs
-- **Databases:** MongoDB, Mongoose
-- **Frontend:** React.js (working knowledge)
-- **Auth & Security:** JWT, Role-based access
-- **Tools:** Git, Docker (learning), Postman
-- **Concepts:** Event Loop, Async I/O, Caching, API Design
+I care deeply about **engineering fundamentals** — performance, architecture, maintainability — and sharing knowledge through open learning.
 
 ---
 
-## 🚀 What I’m Working On
-- Deepening knowledge of **Node.js internals (V8, libuv)**
-- Building production-style backend projects
-- Creating backend engineering content & tutorials
+## 🔧 Engineering Focus
+- Backend systems & API design
+- Node.js internals (Event Loop, V8, async I/O)
+- Authentication, authorization, and security
+- Scaling, caching, and system reliability
 
 ---
 
-## 📌 Featured Projects
-👉 Check my pinned repositories below  
-Each project is built with real-world backend patterns and clean architecture.
+## 🌍 Open Source
+I enjoy contributing to open-source projects and building tools that help developers:
+
+- Writing clean, review-friendly code
+- Improving documentation and DX
+- Fixing bugs and performance issues
+
+👉 See pinned repositories and contributions below.
+
+---
+
+## 🚀 Products & Experiments
+I build and experiment with ideas to solve real problems:
+- Backend services & SaaS-style APIs
+- Internal tools & developer utilities
+- Early-stage product prototypes
+
+---
+
+## 📌 Featured Work
+My pinned repositories represent:
+- Production-style backend systems
+- Open-source utilities
+- Engineering notes & experiments
 
 ---
 
